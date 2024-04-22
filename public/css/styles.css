@@ -1,0 +1,743 @@
+/* ############################################ */
+/* ############ RESPONSIVIDADE ################ */
+/* ############################################ */
+
+    /* Dimensões: Menores */
+    @media only screen and (min-width: 200px) and (max-width: 767px) 
+    {
+        .carousel-index {margin-top:-73px !important;} 
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+
+    /* Dimensões: Iphone 5/SE */
+    @media only screen and (min-width: 320px) and (max-width: 568px) 
+    {
+        .carousel-index {margin-top:-73px !important;} 
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+
+    /* Dimensões: 6/7/8 */
+    @media only screen and (min-width: 375px) and (max-width: 667px) 
+    {
+        .carousel-index {margin-top:-73px !important;}
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+    
+    /* Dimensões Iphone 12 */
+    @media only screen and (min-width: 375px) and (max-width: 812px) 
+    {
+        .carousel-index {margin-top:-73px !important;}
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+
+    /* Dimensões Iphone X */
+    @media only screen and (min-width: 390px) and (max-width: 844px) 
+    {
+        .carousel-index {margin-top:-73px !important;}
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+    
+    /* Dimensões: Iphone 6/7/8 Plus */
+    @media only screen and (min-width: 414px) and (max-width: 736px) 
+    {
+        .carousel-index {margin-top:-73px !important;}
+        .carousel-mb {height:400px !important;} 
+        
+        .box-left-social { width:100% !important; }
+        .box-right-social { width:100% !important; }
+        .circle-social { width:30% !important; }
+        
+        .py-5 { margin-top:0px !important; }
+        
+        .sec-banner { margin-top:0px !important; }
+        
+        .div01-news { width:100% !important; }
+        .div-noticias01 { width:100% !important; }
+        
+        .box-title { margin-top:1px !important; }
+
+        .title-polo { margin-top:0px !important; }
+        .polo-left { width:100% !important; }
+        .polo-right { width:100% !important; }
+        .card-polo { width:100% !important; }
+        
+        footer{margin-top:0px !important; }
+    }
+
+/* ############################################ */
+/* ############# MOBILE & WEB ################# */
+/* ############################################ */
+
+/* Aparecer no MOBILE */
+.visible-xs,
+.visible-sm,
+.visible-md,
+.visible-lg {
+  display: none !important;
+}
+.visible-xs-block,
+.visible-xs-inline,
+.visible-xs-inline-block,
+.visible-sm-block,
+.visible-sm-inline,
+.visible-sm-inline-block,
+.visible-md-block,
+.visible-md-inline,
+.visible-md-inline-block,
+.visible-lg-block,
+.visible-lg-inline,
+.visible-lg-inline-block {
+  display: none !important;
+}
+@media (max-width: 767px) {
+  .visible-xs {
+    display: block !important;
+  }
+  table.visible-xs {
+    display: table;
+  }
+  tr.visible-xs {
+    display: table-row !important;
+  }
+  th.visible-xs,
+  td.visible-xs {
+    display: table-cell !important;
+  }
+}
+@media (max-width: 767px) {
+  .visible-xs-block {
+    display: block !important;
+  }
+}
+@media (max-width: 767px) {
+  .visible-xs-inline {
+    display: inline !important;
+  }
+}
+@media (max-width: 767px) {
+  .visible-xs-inline-block {
+    display: inline-block !important;
+  }
+}
+
+/* Aparecer na WEB */
+
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none !important;
+  }
+}
+
+/*########################################
+################ GLOBAL ###################
+##########################################*/
+
+body{margin: 0 auto;
+   padding: 0;
+   min-height:100%;
+   position:relative;}
+
+h4 { font-size:23px !important; }
+
+
+.align-center{text-align: center !important;}
+.align-left{text-align: left !important;}
+.align-right{text-align: right !important;}
+#align-center{text-align: center !important;}
+
+/*------ /nav-bar -------*/
+
+.nav-edit {
+    height: 130px;
+    position: fixed;
+    z-index: 1;
+    width: 100% !important;
+    border:none; 
+    border-color: transparent; 
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+.nav-title h4 {
+    color:black; 
+    font-size:20px; 
+    padding-top:23px; 
+    letter-spacing: 2px;
+}
+
+.navbar-toggler .fa-bars {
+    color:black; 
+    font-size:26px; 
+    padding-top:5px;
+}
+
+.btn-access { background-color: transparent !important; font-size:20px; }
+
+.navbar-toggler .fa-search {color:black; font-size:24px; padding-top:5px;}
+
+.nav-social .fa-instagram{color:lightslategray; padding-top:6px; opacity:0.8;}
+.nav-social .fa-facebook-square{color:lightslategray; opacity:0.8;}
+.nav-social .fa-youtube-play{color:lightslategray; opacity:0.8;}
+
+/*------ /menu -------*/
+
+.offcanvas{
+    background: linear-gradient(to right, #edf1f5 , #ced9e4);
+    border-radius: 7px;
+    animation: change 10s ease-in-out infinite;
+}
+
+.nav-item { 
+    letter-spacing: 2px; 
+    margin-top: 10px;
+    }
+    /*.nav-item:hover { 
+        transform: translateX(15px);
+        transition: transform 0.6s, opacity 0.6s; opacity: 0.7;
+    }*/
+    .nav-item a {
+        color:#545d73; 
+        margin-top:8px; 
+        font-weight: 400 !important;
+    }
+    .nav-item a:hover{
+        background-color:#efefef; 
+        color: #282a2d;
+    }
+
+.icon-menu{
+    color:#545d73; 
+    font-size:22px; 
+    font-weight: bold;
+    margin-left:10px;
+}
+
+.dropdown-menu{
+    background-color: white; 
+    border: none; 
+    /*border-left: 3px solid #f5921a; */
+    border-radius: 0px; 
+    margin-left:18px;
+}
+
+.dropdown-menu .dropdown-item { width:80%; }
+.dropdown-menu .dropdown-item:hover { transform: translateX(20px);transition: transform 0.6s, opacity 0.6s; opacity: 0.6;}
+
+.dropdown-item i { color:#f5921a; font-size:19px; }
+
+/*-------------- casourek/index ---------------*/
+
+#caroulsel {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    z-index: -1;
+}
+
+.carousel-indicators button { 
+    height:20px !important; 
+    background-color:transparent!important; 
+    border: 1px !important; 
+    border-style: solid !important; 
+    border-width: 1px !important; 
+    border-color: white !important; }
+
+.carousel-indicators .active {
+    height:20px !important; 
+    width:40px !important;
+    background-color: white!important; 
+    border: 1px !important; 
+    border-style: solid !important; 
+    border-width: 1px !important; 
+    border-color: white !important;
+    opacity: 0.7;
+}
+
+/*-------------- noticias/index ---------------*/
+
+.py-5 { margin-top:10px; }
+
+.news-title h4 { letter-spacing: 3px; }
+.news-title h4 i { color: lightgray; font-size:19px;}
+
+.news-title .col-3 button { background-color:#0082c8; border-radius: 0px; border:none; }
+
+.news-title .col-3 small { color:lightslategray;}
+
+.news-title hr{width:100%; height:3px; background-image: linear-gradient(to right, #75a152 , #e3650e); border:none; opacity: 1;}
+
+.card-group { margin-top:40px; }
+.card{ border:none; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; }
+.card img{border-radius: 0px;}
+.card-body:hover{background-color:#f2f2f2;}
+
+.card-text { height:100px; text-align: justify; }
+
+.card-end { font-size:13px; color:slategray!important; text-align: left; padding-top:5px; }
+ 
+/*------------ logos ----------------*/
+
+.back-to-top {
+  border: none;
+  position: fixed;
+  display: none;
+  right: 30px;
+  bottom: 30px;
+  z-index: 11;
+  animation: action 1s infinite alternate;
+}
+
+@keyframes action {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}
+
+.box-logos { background-image: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); height:200px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; }
+
+.line-logos { 
+    margin:0 auto; 
+    padding-top:23px; 
+}
+    .line-logos .edit-logo-visite img {         width:230px !important; 
+        padding-top:12px; 
+    }
+    .line-logos .edit-logo-gov img {
+        width:180px; 
+        padding-top: 50px; 
+    }
+    .line-logos .edit-logo-cad img {
+        width:180px; 
+        padding-top: 65px; 
+    }
+    .line-logos .edit-logo-emprotur img { 
+        width:180px; 
+        padding-top:35px;
+    }
+    .line-logos .edit-logo-cnn img {
+        width:250px; 
+        padding-top: 45px; 
+    }
+    .line-logos .col-2:hover { opacity: 0.7; width }
+
+/*------------ /social.media ----------------*/
+
+.sec-banner { margin-top:40px; }
+
+/*------------ /social.media ----------------*/
+
+.py-4 { margin-top: 50px; }
+
+.box-left-social { width:50%; }
+.box-right-social { width:50%; }
+
+.box-social { margin-top:40px; }
+.circle-social { width:20%; }
+
+.btn-social { width:100px; height:100px; background-color: transparent; border-color: dimgray; border-radius: 100px; font-size: 25px; }
+
+.box-insta:hover { background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045); color:white !important; }
+.box-face:hover { background-image: linear-gradient(to right, #396afc, blue); color:white; }
+.box-youtube:hover { background-image: linear-gradient(to right, #e52d27, #b31217); color:white; }
+.box-twitter:hover { background-image: linear-gradient(to right, #12D8FA, #1FA2FF); color:white; }
+
+.box-social-map { margin-top:40px; }
+.box-social-map p { color:darkslategray; text-align: justify; }
+
+.box-social-button { text-align: center; margin-top:20px; }
+.btn-map { border-color: dimgray; border-radius: 2px; }
+.btn-map2 { background-color: #5491f5; color:white; }
+
+/*------------ footer ----------------*/
+
+footer{margin-top:70px;}
+
+.footer01{background-color:#1d2331; color:white; height:170px;}
+
+.rowfooter{padding-top:15px; text-align:center; margin:0 auto;}
+.rowfooter i{font-size:20px; }
+
+.footer02{text-align: center; background-color: #161d27; bottom: 0; color:white;height:30px;}
+
+.footer02 small{padding-top:10px;}
+
+/*########################################
+################ PAGES ###################
+##########################################*/
+
+.box-title { 
+    margin-top:120px
+}
+
+    .box-title h4 { 
+        font-size:30px !important; 
+        letter-spacing: 2px; 
+    }
+    .box-title hr {
+        width:30%; 
+        height:3px; 
+        border:none; 
+        opacity: 1; 
+        background-image: linear-gradient(to right, #75a152 , #e3650e);
+    }
+    .box-title p { 
+        color:gray; 
+        font-size:14px; 
+    }
+    .box-title p a { 
+        text-decoration: none; 
+    }
+
+.box-title2 hr {width:35%; height:2px; border:none; opacity: 1; margin-top:-1px; background-image: linear-gradient(to right, #75a152 , #e3650e);}
+
+.img-pages img {
+    width: 750px !important;
+    height: 182px !important;
+    margin-top:5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+
+.img-pages small {
+    color:gray;
+    opacity: 0.6;
+}
+    .img-pages small:hover {
+        opacity: 1.0;
+        font-size: 15px;
+    }
+
+
+/*---------- institucional -----------*/
+
+.img-organograma img {width:100%; border-radius:10px; margin-top:10px; opacity: 1;}
+.img-organograma img:hover { opacity: 0.9; }
+.img-organograma small {color:lightslategray;}
+
+.box-download { margin-top:10px; }
+.box-download small { color:lightslategray; }
+.box-download p {font-weight: bold; }
+
+#a-download {color:red; text-decoration: none;}
+
+.box-organograma02 p {text-align: justify; margin-top:30px;}
+
+/*---------- gestao -----------*/
+
+.box-row { margin-top:40px; }
+
+@-webkit-keyframes box-row {
+  100% {
+    top: -12px;
+    right: -12px;
+    bottom: -12px;
+    left: -12px;
+    opacity: 0;
+  }
+}
+@keyframes box-row {
+  100% {
+    top: -12px;
+    right: -12px;
+    bottom: -12px;
+    left: -12px;
+    opacity: 0;
+  }
+}
+.box-row {
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+}
+.box-row:before {
+  content: '';
+  position: absolute;
+  border: #e3650e solid 2px;
+  top: 2;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+}
+.box-row:hover:before, .box-row:focus:before, .box-row:active:before {
+  -webkit-animation-name: box-row;
+  animation-name: box-row;
+}
+
+.img-gestao img { width:100%; border-radius:5px; }
+
+#box-text p { margin-top:20px; text-align: justify; }
+
+/*---------- setores e departamentos -----------*/
+
+.box-text-sd { margin-top:35px; }
+
+.box-text-sd small { color:gray; }
+.box-text-sd p { margin-top:20px; }
+
+/*----------- conetur ------------*/
+
+.box-conetur{margin-top:40px;}
+
+.accord-conetur { margin-top:10px; border-left: 3px solid #e3650e; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; }
+
+.row-arq-conetur { margin-top:10px; }
+.row-arq-conetur .col-1 i { color:#0066ff; font-size:17px; }
+
+/*----------- Turismo no RN ------------*/
+
+.box-polo {  }
+
+.btn-polo { width:100%; margin-top:25px; height:100px; border-radius: 0px; border: none; background-color:#1a75ff; letter-spacing: 2px;}
+.btn-polo:hover { 
+    letter-spacing: 1px;
+    -webkit-transition-duration: 0.1s;
+    transition-duration: 0.1s;}
+
+.btn-polo-agreste:hover { background-color:#94d4c4 !important; }
+.btn-polo-cabugi:hover { background-color:#ff6bce !important; }
+.btn-polo-branca:hover { background-color:#ff797a !important; }
+.btn-polo-dunas:hover { background-color:#3dbadc !important; }
+.btn-polo-sertao:hover { background-color:#be8b7c !important; }
+.btn-polo-potengi:hover { background-color:#c1c99a !important; }
+.btn-polo-frio:hover { background-color:#3e55a8 !important; }
+.btn-polo-serido:hover { background-color:#e2a04c !important; }
+.btn-polo-serrano:hover { background-color:#de77e3 !important; }
+.btn-polo-serra:hover { background-color:#4f8e67 !important; }
+.btn-polo-mar:hover { background-color:#d49efe !important; }
+
+.btn-polo {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+}
+.btn-polo:before {
+  pointer-events: none;
+  content: '';
+  position: absolute;
+  border: #bfbfbf dotted 2px;
+  top: -16px;
+  right: -16px;
+  bottom: -16px;
+  left: -16px;
+  opacity: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.btn-polo:hover:before, .btn-polo:focus:before, .btn-polo:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+  opacity: 1;
+}
+
+/*############################################
+############## MUNICIPIOS POLOS ##############
+##############################################*/
+
+.box-title-polo-left h4 {
+    letter-spacing: 2px;
+    font-size: 28px !important;
+}
+.box-title-polo-left p { color:gray; font-size:14px; }
+.box-title-polo-left p a { text-decoration: none; }
+
+.box-title-polo-left hr {
+    width:80%; 
+    height:2px;
+    border:none; 
+    opacity: 1; 
+    background-image: linear-gradient(to right, #75a152 , #e3650e);
+}
+
+.box-title-polo-right {
+    text-align:  !important;
+    width: 100%;
+    font-size:12px;
+    opacity: 0.6;
+}
+    .box-title-polo-right:hover {
+        opacity: 1;
+    }
+
+    .box-title-polo-right .btn-sm {
+        margin-top:5px;
+    }
+    .box-title-polo-right small {
+        color:lightslategray;
+    }
+    .box-title-polo-right hr {
+        width: 30%;
+        margin: 0 auto;
+        height:2px; 
+        border:none;
+        opacity: 1; 
+        margin-top:5px; 
+        background-image: linear-gradient(to right, #75a152 , #e3650e);
+    }
+
+.box-info-municipios {
+    margin-top:px;
+}
+
+.box-info-municipios img { 
+    margin-top:20px;
+    border-radius: 3px;
+}
+
+.box-municipios { 
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px; 
+    border-radius: 5px;
+}
+
+.box-municipios hr {
+    width:30%;
+    background-color:cornflowerblue;
+    border-style: solid;
+    height: 1px;
+    border: none;
+    opacity: 0.7;
+}
+
+.box-municipios:hover hr{
+    width:55%;
+    opacity: 1;
+    height:2px;
+}
+
+.box-municipios-inter { 
+    width:94%; 
+    margin:0 auto; 
+    padding-top:20px;
+    padding-bottom: 8px;
+    margin-top:20px;
+    background-color: ;
+}
+
+.box-municipios-inter .fa-instagram {
+    color:deeppink;
+}    
+
+/*----------- planos e Projetos ------------*/
+
+.box-planos-projetos h4 { margin-top:30px; margin-bottom:20px; }
+
+.col-prod-planos { border-style:solid; border-width:1px; margin-left:2px; font-size:14px; position: relative; height:120px; }
+.col-prod-planos:hover, .col-prod-planos:focus, .col-prod-planos:active { border-image: linear-gradient(to right, #75a152 , #e3650e) 8; }
+.col-prod-planos span { color:; }
+.col-prod-planos a { position:absolute; bottom: 5px; right: 10px;}
+
+@keyframes col-prod-planos 
+{
+  50% {
+    background-color: rgba(32, 152, 209, 0.75);
+}

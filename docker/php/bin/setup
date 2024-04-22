@@ -1,0 +1,4 @@
+#!/bin/sh
+
+composer update -d /var/www
+php /var/www/artisan key:generate
