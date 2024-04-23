@@ -64,6 +64,8 @@ Route::get('/valemarAta',[ProfileController::class, 'valemarAta']);
 Route::get('/conecte-se',[ProfileController::class, 'conectese'])->name('conectese');
 Route::get('/like/{id}',[ProfileController::class, 'like'])->name('like');
 
+/* Blog */
+Route::get('/transparencia',[ProfileController::class, 'transparencia'])->name('transparencia');
 
 /*
 Route::get('/dashboard', function () { return view('admin.index'); })->middleware(['auth', 'verified'])->name('dashboard');
