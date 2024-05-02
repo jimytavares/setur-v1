@@ -266,6 +266,14 @@ class ProfileController extends Controller
     
     /* atas - polos */
     
+    public function atasConetur() {
+        return view('pages.atasConetur');
+    }
+    
+    public function atasRegioes() {
+        return view('pages.atasRegioes');
+    }
+    
     public function poloagrestetrairiAta() {
         return view('pages.atas.poloagrestetrairiAta');
     }

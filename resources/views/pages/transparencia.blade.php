@@ -18,7 +18,11 @@
     <section>
         <div class="container" style="margin-top:130px;">
             
-            <div class="row">
+            <div class="">
+                <h4>Transparência SETUR/RN</h4>
+            </div>
+            
+            <div class="row" style="margin-top:30px;">
                 <div class="col">
                     
                     <div class="row btn-all-transp">

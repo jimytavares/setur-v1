@@ -48,6 +48,9 @@ Route::get('/poloserradoagrestepotiguar',[ProfileController::class, 'poloserrado
 Route::get('/polovalemar',[ProfileController::class, 'polovalemar']);
 
 /* Atas */
+Route::get('/atas-conetur',[ProfileController::class, 'atasConetur'])->name('atasConetur');
+Route::get('/atas-regioes',[ProfileController::class, 'atasRegioes'])->name('atasRegioes');
+
 Route::get('/poloagrestetrairiAta',[ProfileController::class, 'poloagrestetrairiAta']);
 Route::get('/cabugicentralAta',[ProfileController::class, 'cabugicentralAta']);
 Route::get('/costabrancaAta',[ProfileController::class, 'costabrancaAta']);

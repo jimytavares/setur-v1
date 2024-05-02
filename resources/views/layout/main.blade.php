@@ -243,6 +243,16 @@
                       <li><a class="dropdown-item" href="/conetur"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;CONETUR</a></li>
                     </ul>
                   </li>
+                    
+                    <li class="nav-item dropdown" style="border-left: 3px solid green;">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      <i class="pe-7s-users icon-menu"></i> &nbsp;&nbsp;Atas Setur
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="{{ route('atasConetur') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas CONETUR </a></li>
+                      <li><a class="dropdown-item" href="{{ route('atasRegioes') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas REGIÕES</a></li>
+                    </ul>
+                  </li>
                   
                   <li class="nav-item" style="border-left: 3px solid #ffff00;">
                     <a class="nav-link" href="/noticias"><i class="pe-7s-news-paper icon-menu"></i> &nbsp; Notícias</a>
