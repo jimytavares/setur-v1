@@ -249,8 +249,8 @@
                       <i class="pe-7s-users icon-menu"></i> &nbsp;&nbsp;Atas Setur
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="{{ route('atasConetur') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas CONETUR </a></li>
-                      <li><a class="dropdown-item" href="{{ route('atasRegioes') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas REGIÕES</a></li>
+                      <li><a class="dropdown-item" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas CONETUR </a></li>
+                      <li><a class="dropdown-item" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Atas REGIÕES</a></li>
                     </ul>
                   </li>
                   
