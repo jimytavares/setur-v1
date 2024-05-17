@@ -256,11 +256,22 @@
                             <p><b>Principais atrativos turísticos:</b></p>
 
                             <p>
-                            • 
+                            • Fazenda Tome Xote
+                            <br/>• Cacimba da Fazenda
+                                <br/>• Tombada ao Patrimônio Histórico e Cultural
+                                <br/>• Centro Cultural
+                                <br/>• Açudes
+                                <br/>• Festa da Padroeira N. Sra. da Conceição
+                                <br/>• Dia do Evangélico
+                                <br/>• São João Danado de Bom, Pingo D'água
+                                <br/>• Dia da Emancipação Política do município
+                                <br/>• Dia da Fundação do Município
+                                <br/>• Parque de Vaquejada 13 de maio
                             </p>
 
                             <p><b>Site:</b> <a href="#">https://www.olhodaguadoborges.rn.gov.br/</a>
-                            <br/><b><i class="fa fa-instagram" aria-hidden="true"></i> Instagram:</b> @prefeituradeodb </p>
+                            <br/><b>Instagram:</b> @prefeituradeodb
+                            <br/><b>E-mail:</b> escolasticipaulino@outlook.com </p>
                             <a href="/serranoAta"><button class="btn btn-success btn-sm" style="text-align:center; margin-top:10px;">Ata Serrano</button></a>
                           </div>
                         </div>
@@ -288,6 +299,7 @@
 
                             <p><b>Site:</b> <a href="#">https://patu.rn.gov.br/</a>
                             <br/><b><i class="fa fa-instagram" aria-hidden="true"></i> Instagram:</b> @governodepatu </p>
+                           
                             <a href="/serranoAta"><button class="btn btn-success btn-sm" style="text-align:center; margin-top:10px;">Ata Serrano</button></a>
                           </div>
                         </div>
