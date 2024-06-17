@@ -21,6 +21,7 @@
         .btn-right-transp-lg p{ color:black; font-size:18px; margin-left:12px; margin-top:10px; }
         .btn-right-transp:hover{ background-color:#e3650e; }
         .icon-btn-transp{ font-size:25px; padding-top:23px; color:white; }
+     .btn-collapse-atas{ width:260px; height:50px; margin-top:20px; border-radius:0px; background-color:#F2F2F2; border: 1px solid #e3650e; color:black; }
     </style>
 
     <section>
@@ -37,30 +38,119 @@
 
                 <!-- .1 -->
                 <div class="row box-group-transp">
+                    
                     <div class="col-6 col-buttons-transp">
-                        <a href="#" style="text-decoration:none;">
+                        <div data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
                             <div class="row btn-all-transp">
                                 <div class="btn-left-transp">
                                     <i class="fas fa-layer-group icon-btn-transp"></i>
                                 </div>
                                 <div class="btn-right-transp">
-                                    <p>Documentos AÇU</p>
+                                    <p>Polo Agreste Trairi</p>
                                 </div>
                             </div>
-                        </a>
+                        </div>
+                        
+                        <div class="collapse" id="collapseExample" style="text-align:center;">
+                            <a href="http://www.sic.rn.gov.br/" target="_blank">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Brejinho</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Campo Redondo</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Pedro Velho</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Santa Cruz</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Santo Antonio</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Serra Caiada</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Sitio Novo</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Tangara</button>
+                            </a>
+                        </div>
                     </div>
+                    
                     <div class="col-6 col-buttons-transp">
-                        <a href="#" style="text-decoration:none;">
+                        <a data-bs-toggle="collapse" href="#poloCostaDasDunas" role="button" aria-expanded="false" aria-controls="poloCostaDasDunas" style="text-decoration:none;">
                             <div class="row btn-all-transp">
                                 <div class="btn-left-transp">
                                     <i class="fas fa-layer-group icon-btn-transp"></i>
                                 </div>
                                 <div class="btn-right-transp">
-                                    <p>Pedra Grande</p>
+                                    <p>Polo Costa das Dunas</p>
                                 </div>
                             </div>
                         </a>
+                        
+                        <div class="collapse" id="poloCostaDasDunas" style="text-align:center;">
+                            <a href="http://www.sic.rn.gov.br/" target="_blank">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Arez</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Baia Formosa</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Canguaretama</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Ceara Mirim</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Extremoz</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Maxaranguape</button>
+                            </a> <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Natal</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Nisia Floresta</button>
+                            </a>
+                            <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Parnamirim</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Pureza</button>
+                            </a>
+                            <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Rio do Fogo</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> São Gonçalo do Amarante</button>
+                            </a>
+                            <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> São Miguel do Gostoso</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Senador Georgino Avelino</button>
+                            </a>
+                            <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Tibau do Sul</button>
+                            </a>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Touros</button>
+                            </a>
+                            <br/>
+                            <a href="#">
+                                <button class="btn btn-primary btn-collapse-atas"><i class="fas fa-map-marker-alt"></i> Vila Flor</button>
+                            </a>
+                        </div>
                     </div>
+                    
                     <div class="col-6 col-buttons-transp mt-4">
                         <a href="#" style="text-decoration:none;">
                             <div class="row btn-all-transp">
@@ -160,7 +250,7 @@
                                     <i class="fas fa-layer-group icon-btn-transp"></i>
                                 </div>
                                 <div class="btn-right-transp">
-                                    <p>Polo Agreste Trairi</p>
+                                    <p>Documentos Açu</p>
                                 </div>
                             </div>
                         </a>
@@ -172,7 +262,7 @@
                                     <i class="fas fa-layer-group icon-btn-transp"></i>
                                 </div>
                                 <div class="btn-right-transp">
-                                    <p>Polo Costa das Dunas</p>
+                                    <p>Pedra Grande</p>
                                 </div>
                             </div>
                         </a>
