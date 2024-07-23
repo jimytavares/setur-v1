@@ -17,6 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [ProfileController::class, 'index']);
 Route::get('/institucional',[ProfileController::class, 'institucional']);
+Route::get('/editais',[ProfileController::class, 'editais'])->name('editais');
 Route::get('/gestao',[ProfileController::class, 'gestao']);
 Route::get('/setoresedepartamentos',[ProfileController::class, 'setoresedepartamentos']);
 Route::get('/conetur',[ProfileController::class, 'conetur']);

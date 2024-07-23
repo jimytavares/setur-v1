@@ -234,6 +234,7 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="/institucional"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Institucional</a></li>
+                      <li><a class="dropdown-item" href="{{ route('editais') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Editais</a></li>
                       <li><a class="dropdown-item" href="/gestao"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;A Gestão</a></li>
                       <li><a class="dropdown-item" href="/setoresedepartamentos"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Setores e Departamentos</a></li>
                       <li><a class="dropdown-item" href="http://emprotur.setur.rn.gov.br/" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;EMPROTUR</a></li>
@@ -242,6 +243,10 @@
                       <li><a class="dropdown-item" href="/faleconosco"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Fale Conosco</a></li>
                       <li><a class="dropdown-item" href="/conetur"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;CONETUR</a></li>
                     </ul>
+                  </li>
+                    
+                    <li class="nav-item" style="border-left: 3px solid #f5921a;">
+                    <a class="nav-link" href="https://pncp.gov.br/app/pca/08241739000105/2025/6" target="_blank"><i class="pe-7s-home icon-menu"></i> &nbsp;&nbsp;PCA 2025</a>
                   </li>
                     
                     <li class="nav-item dropdown" style="border-left: 3px solid green;">

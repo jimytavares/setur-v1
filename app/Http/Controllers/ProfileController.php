@@ -34,6 +34,12 @@ class ProfileController extends Controller
         return view('pages.institucional', ["namepage" => $namepage]);
     }
     
+    public function editais() {
+        $namepage = "Editais";
+        
+        return view('pages.editais', ["namepage" => $namepage]);
+    }
+    
     public function transparencia() {
         $namepage = "Transparência";
         
