@@ -244,6 +244,10 @@
                     </ul>
                   </li>
                     
+                    <li class="nav-item" style="border-left: 3px solid #f5921a;">
+                    <a class="nav-link" href="https://pncp.gov.br/app/pca/08241739000105/2025/6" target="_blank"><i class="pe-7s-home icon-menu"></i> &nbsp;&nbsp;PCA 2025</a>
+                  </li>
+                    
                     <li class="nav-item dropdown" style="border-left: 3px solid green;">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       <i class="pe-7s-users icon-menu"></i> &nbsp;&nbsp;Atas Setur
