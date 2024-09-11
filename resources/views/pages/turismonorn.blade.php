@@ -18,7 +18,9 @@
             {{-- web/ --}}
             <div class="container hidden-xs">
                 
-                <img src="{{ URL::asset('img/mapaturismo.png') }}" style="width:100%;"/>
+                <div style="text-align:center;">
+                    <img src="{{ URL::asset('img/mapaturismo2.png') }}" style="width:80%;"/>
+                </div>
                 
                 <p style="color:gray;">*Clique no polo desejado para obter mais informações</p>
                 
