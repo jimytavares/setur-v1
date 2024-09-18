@@ -15,6 +15,8 @@ use App\Models\users;
 use App\Models\cargos;
 use App\Models\blog;
 use App\Models\blog_publi;
+use App\Models\bugueiros_credenciados;
+
 use Illuminate\Support\Facades\DB;
 
 class ProfileController extends Controller
@@ -32,6 +34,15 @@ class ProfileController extends Controller
         $namepage = "Institucional";
         
         return view('pages.institucional', ["namepage" => $namepage]);
+    }
+    
+    public function bugueiroCredenciados(){
+        
+        $namepage = "Bugueiros Credenciados";
+        
+        $get_bugueiros = bugueiros_credenciados::orderBy('nome', 'asc')->paginate(30);
+        
+        return view('pages.buggy-credenciados', ["namepage" => $namepage, "get_bugueiros" => $get_bugueiros]);
     }
     
     public function editais() {

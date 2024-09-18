@@ -281,7 +281,7 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark">
                       <li><a class="dropdown-item" href="https://cadastur.turismo.gov.br/hotsite/#!/public/capa/entrar" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Cadastur</a></li>
-                      <li><a class="dropdown-item" href="#"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Buggy Turismo</a></li>
+                      <li><a class="dropdown-item" href="{{ route('bugueiroCredenciados') }}"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Buggy Turismo</a></li>
                     </ul>
                   </li>
                   
