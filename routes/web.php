@@ -16,7 +16,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [ProfileController::class, 'index']);
-Route::get('/bugueiroCredenciados',[ProfileController::class, 'bugueiroCredenciados'])->name('bugueiroCredenciados');
 Route::get('/institucional',[ProfileController::class, 'institucional']);
 Route::get('/editais',[ProfileController::class, 'editais'])->name('editais');
 Route::get('/gestao',[ProfileController::class, 'gestao']);
@@ -31,6 +30,9 @@ Route::get('/erropesquisar',[ProfileController::class, 'erropesquisar']);
 Route::get('/noticias',[ProfileController::class, 'noticias']);
 Route::get('/noticia/{id}',[ProfileController::class, 'noticia']);
 Route::get('/noticia-search',[ProfileController::class, 'noticiaSearch']);
+
+Route::get('/bugueiroCredenciados',[ProfileController::class, 'bugueiroCredenciados'])->name('bugueiroCredenciados');
+Route::get('/buscarBugueiro',[ProfileController::class, 'buscarBugueiro'])->name('buscarBugueiro');
 
 Route::get('/faleconosco',[ProfileController::class, 'faleconosco']);
 Route::post('/insertFaleConosco',[ProfileController::class, 'insertFaleConosco']);

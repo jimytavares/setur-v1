@@ -8,26 +8,19 @@
         <div class="container">
             
             <div class="box-title">
-                <h4>Relação de Bugueiros Credenciados</h4>
+                <h4>{{$namepage}}</h4>
+                <p style="font-size:18px; color:gray;">Resultado da buscar por <span style="text-transform:uppercase; color:black; font-weight:bold;">{{$result}}</span> na lista dos bugueiros.</p>
                 @include('ini.header-page')
-                <div class="img-pages">
-                    <small style="color:gray;"></small>
-                </div><hr><br/>
+                <hr><br/>
             </div>
 
             {{-- .table --}}
             <div class="row">
                 <div class="col">
-                    {{ $get_bugueiros->links('pagination::bootstrap-4') }}
+                    <a href="{{ route('bugueiroCredenciados') }}"><button class="btn btn-primary btn-sm">Listar Todos os Bugueiros</button></a>
                 </div>
                 <div class="col">
-                    <form action="{{ route('buscarBugueiro') }}" class="domain-form" method="GET" enctype="multipart/form-data">
-                    @csrf
-                        <div class="d-md-flex"> 
-                            <input type="text" name="nome_credencial" class="form-control px-4" placeholder="Informe o nome para Buscar pelo Bugueiro"> 
-                            <button type="submit" class="search-domain btn btn-info px-3" style="background-color:#e3650e; border:none; color:white;"><i class="fa fa-search" aria-hidden="true"></i> Buscar</button>
-                        </div>
-                    </form>
+                    @include('componentes.buscarBugueiro')
                 </div>
             </div>
             <table class="table table-striped" style="font-size:16px; margin-top:20px;">
@@ -39,18 +32,18 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach($get_bugueiros as $dados)
+                    @foreach($result_bugueiro as $dados)
                         <tr>
                             <td class="" style="text-align:center;"><i class="fas fa-check-circle" style="color:green;"></i></td>
                             <td class="" style="text-align:center;"><b>{{$dados->credencial}}</b></td>
-                            <td class="" style="font-size:18px;">{!! $dados->nome !!}</td>
+                            <td class="" style="font-size:20px;">{!! $dados->nome !!}</td>
                        </tr>
                     @endforeach
                 </tbody>
             </table>
            
         </div>
-    </section>
+    </section><br/><br/><br/><br/><br/><br/><br/><br/>
 
 @endsection
     

@@ -45,6 +45,17 @@ class ProfileController extends Controller
         return view('pages.buggy-credenciados', ["namepage" => $namepage, "get_bugueiros" => $get_bugueiros]);
     }
     
+    public function buscarBugueiro(request $request){
+        
+        $namepage = 'Bugueiros Credenciados';
+        
+        $result = $request->nome_credencial;
+        
+        $result_bugueiro = bugueiros_credenciados::where('nome', 'LIKE', '%' . $result . '%')->get();
+        
+        return view('pages.buggy-search', compact(["namepage", "result", "result_bugueiro"]));
+    }
+    
     public function editais() {
         $namepage = "Editais";
         
