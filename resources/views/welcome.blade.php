@@ -87,11 +87,12 @@
                 <div class="col-2 edit-logo-cad"> <a href="https://cadastur.turismo.gov.br/hotsite/#!/public/capa/entrar" target="_blank"><img src="{{ URL::asset('img/logo/logo-cadastur-white.png') }}" /> </a> </div>
                 <div class="col-2 edit-logo-emprotur"> <a href="http://emprotur.setur.rn.gov.br/" target="_blank"><img src="{{ URL::asset('img/logo/logo-emprotur-white.png') }}" /> </a> </div>
                 <div class="col-2 edit-logo-cnn"> <a href="https://www.centrodeconvencoesdenatal.rn.gov.br/" target="_blank"><img src="{{ URL::asset('img/logo/logo-ccn.png') }}" /> </a> </div>
-                <div class="col-2 edit-logo-cnn" style="padding-top: 0px !important;"> <a href="#"><img src="{{ URL::asset('img/logo/logo-bug-white.png') }}" style="width:165px !important; margin-left:40px;" /> </a> </div>
+                <div class="col-2 edit-logo-cnn" style="padding-top: 0px !important;"> <a href="https://setur.rn.gov.br/bugueiroCredenciados"><img src="{{ URL::asset('img/logo/logo-bug-white.png') }}" style="width:165px !important; margin-left:40px;" /> </a> </div>
             </div>
             
         </div>
     </section>
+
     {{-- /logo.mb --}}
     <section class="visible-xs" style="margin-top:80px;">
         <div class="container-fluid box-logos">
