@@ -36,7 +36,6 @@
             <table class="table table-striped" style="font-size:16px; margin-top:20px;">
                 <thead style="background-image: linear-gradient(to right, #75a152 , #e3650e, #e3650e);">
                     <tr style="color:white;">
-                        <th class="" style="width:5%;">ATIVO</th>
                         <th class="" style="width:5%;">CREDENCIAL</th>
                         <th class="">NOME DO BUGUEIRO</th>
                     </tr>
@@ -44,7 +43,6 @@
                 <tbody>
                     @foreach($get_bugueiros as $dados)
                         <tr>
-                            <td class="" style="text-align:center;"><i class="fas fa-check-circle" style="color:green;"></i></td>
                             <td class="" style="text-align:center;"><b>{{$dados->credencial}}</b></td>
                             <td class="" style="font-size:18px;">{!! $dados->nome !!}</td>
                        </tr>
