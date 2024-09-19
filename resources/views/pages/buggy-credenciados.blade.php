@@ -17,6 +17,9 @@
 
             {{-- .table --}}
             <div class="row">
+                <div class="col-12">
+                    <p style=""><b>Total:</b> {{$countBugueiros}}</p>
+                </div>
                 <div class="col">
                     {{ $get_bugueiros->links('pagination::bootstrap-4') }}
                 </div>

@@ -40,9 +40,10 @@ class ProfileController extends Controller
         
         $namepage = "Bugueiros Credenciados";
         
+        $countBugueiros = bugueiros_credenciados::count();
         $get_bugueiros = bugueiros_credenciados::orderBy('nome', 'asc')->paginate(30);
         
-        return view('pages.buggy-credenciados', ["namepage" => $namepage, "get_bugueiros" => $get_bugueiros]);
+        return view('pages.buggy-credenciados', ["namepage" => $namepage, "get_bugueiros" => $get_bugueiros, "countBugueiros" => $countBugueiros]);
     }
     
     public function buscarBugueiro(request $request){
