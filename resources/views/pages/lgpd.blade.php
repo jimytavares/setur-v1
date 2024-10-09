@@ -28,7 +28,7 @@
 
             <div class="" style="margin-top:15px;">
                 <p style="font-size:17px;"><i class="far fa-user"></i> ANA IRIS ALVES DA SILVA<br/>
-                Cargo: <br/></p>
+                Cargo: Assistente Técnico II<br/></p>
             </div>
             
             <br/>
