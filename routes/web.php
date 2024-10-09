@@ -33,6 +33,7 @@ Route::get('/noticia-search',[ProfileController::class, 'noticiaSearch']);
 
 Route::get('/bugueiroCredenciados',[ProfileController::class, 'bugueiroCredenciados'])->name('bugueiroCredenciados');
 Route::get('/buscarBugueiro',[ProfileController::class, 'buscarBugueiro'])->name('buscarBugueiro');
+Route::get('/lgpd',[ProfileController::class, 'lgpd'])->name('lgpd');
 
 Route::get('/faleconosco',[ProfileController::class, 'faleconosco']);
 Route::post('/insertFaleConosco',[ProfileController::class, 'insertFaleConosco']);

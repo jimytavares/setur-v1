@@ -36,6 +36,13 @@ class ProfileController extends Controller
         return view('pages.institucional', ["namepage" => $namepage]);
     }
     
+    public function lgpd(){
+        
+        $namepage = "LGPD";
+        
+        return view('pages.lgpd', ["namepage" => $namepage]);
+    }
+    
     public function bugueiroCredenciados(){
         
         $namepage = "Bugueiros Credenciados";

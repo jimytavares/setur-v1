@@ -297,6 +297,9 @@
                     </ul>
                   </li>
                   
+                    <li class="nav-item" style="border-left: 3px solid #ffff00;">
+                      <a class="nav-link" href="{{ route('lgpd') }}"><i class="pe-7s-airplay icon-menu"></i> &nbsp; LGPD</a>
+                  </li>
                   <li class="nav-item" style="border-left: 3px solid #ffff00;">
                       <a class="nav-link" href="/planoseprojetos"><i class="pe-7s-airplay icon-menu"></i> &nbsp; Planos e Projetos</a>
                   </li>
