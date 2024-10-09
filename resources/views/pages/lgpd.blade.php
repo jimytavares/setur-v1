@@ -21,14 +21,14 @@
 
             <div class="" style="margin-top:15px;">
                 <p style="font-size:17px;"><i class="far fa-user"></i> LARISSA ANTONIA FRANÇA DE OLIVEIRA<br/>
-                Cargo: <br/></p>
+                Cargo: Assistente Administrativo<br/></p>
             </div>
 
             <h4 style="margin-top:30px;">Suplente</h4>
 
             <div class="" style="margin-top:15px;">
                 <p style="font-size:17px;"><i class="far fa-user"></i> ANA IRIS ALVES DA SILVA<br/>
-                    Cargo: <br/></p>
+                Cargo: <br/></p>
             </div>
             
             <br/>
