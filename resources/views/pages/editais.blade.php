@@ -131,7 +131,7 @@
                       </thead>
                       <tbody>
                         <tr>
-                        <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/1-SEI-29091618-Termo-de-Colaboracao-1.pdf') }}" target="_blank">Termo de Colaboração 1</a></td>
+                        <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/1-SEI-29091618-Termo-de-Colaboracao-1.pdf') }}" target="_blank">Termo de Colaboração 1</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -139,7 +139,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_2.pdf') }}" target="_blank">Termo de Colaboração 2</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_2.pdf') }}" target="_blank">Termo de Colaboração 2</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -147,7 +147,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_3.pdf') }}" target="_blank">Termo de Colaboração 3</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_3.pdf') }}" target="_blank">Termo de Colaboração 3</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -155,7 +155,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_4.pdf') }}" target="_blank">Termo de Colaboração 4</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_4.pdf') }}" target="_blank">Termo de Colaboração 4</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td> O	presente	Termo	de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -163,7 +163,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_5.pdf') }}" target="_blank">Termo de Colaboração 5</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_5.pdf') }}" target="_blank">Termo de Colaboração 5</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente	Termo	de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -171,7 +171,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_6.pdf') }}" target="_blank">Termo de Colaboração 6</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_6.pdf') }}" target="_blank">Termo de Colaboração 6</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -179,7 +179,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_7.pdf') }}" target="_blank">Termo de Colaboração 7</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_7.pdf') }}" target="_blank">Termo de Colaboração 7</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -187,7 +187,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_8.pdf') }}" target="_blank">Termo de Colaboração 8</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_8.pdf') }}" target="_blank">Termo de Colaboração 8</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -195,7 +195,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/SEI_29091618_Termo_de_Colaboracao_9.pdf') }}" target="_blank">Termo de Colaboração 9</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/SEI_29091618_Termo_de_Colaboracao_9.pdf') }}" target="_blank">Termo de Colaboração 9</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -203,7 +203,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/1SEI_29091618_Termo_de_Colaboracao_10.pdf') }}" target="_blank">Termo de Colaboração 10</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/1SEI_29091618_Termo_de_Colaboracao_10.pdf') }}" target="_blank">Termo de Colaboração 10</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
@@ -211,7 +211,7 @@
                              de	Trabalho,	Anexo	I.</td>
                         </tr>
                         <tr>
-                            <td><a href="{{ URL::asset('doc/editais/termo_colaboracao/1SEI_29091618_Termo_de_Colaboracao_11.pdf') }}" target="_blank">Termo de Colaboração 11</a></td>
+                            <td><a href="{{ URL::asset('doc/editais/termo-colaboracao/1SEI_29091618_Termo_de_Colaboracao_11.pdf') }}" target="_blank">Termo de Colaboração 11</a></td>
                           <td>02410017.000566/2024-41</td>
                           <td>O	presente Termo de	Colaboração,	decorrente	do	Edital	de	chamamento	público	nº	01/2024	–	SETUR/RN,
                              tem	por	objeto:	Concessão	de	apoio	financeiro	às	entidades	responsáveis	pelas	Instâncias	de	Governança	Regionais
