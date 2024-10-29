@@ -20,7 +20,7 @@
             @foreach($slc_cargos as $dados)
                 <div class="box-text-sd">
                     <h4>{{$dados->cargo}}</h4> 
-                    <p style="font-size:17px;"><i class="fa fa-user-circle-o" aria-hidden="true"></i> {{$dados->nome}} <br/> <small style="font-size:14px;"><i class="fas fa-at"></i> Email: {{$dados->email}}</small></p>
+                    <p style="font-size:17px;"><i class="fa fa-user-circle-o" aria-hidden="true"></i> {{$dados->nome}} <br/> <small style="font-size:14px;"><i class="fas fa-at"></i> Email: {{$dados->email}}</small> <br/> <small style="font-size:14px;"><i class="fas fa-phone"></i> Telefone: {{$dados->telefone}}</small></p>
                     
 
                     <p>{!!html_entity_decode($dados->descricao) !!}</p>
