@@ -320,7 +320,7 @@
                       <i class="pe-7s-airplay icon-menu"></i> &nbsp; Transparência
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark">
-                      <li><a class="dropdown-item" href="{{ URL::asset('doc/carta_de_servicos_setur.pdf') }}" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Carta de Serviço</a></li>
+                      <li><a class="dropdown-item" href="{{ URL::asset('doc/carta-servico-2024.pdf') }}" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Carta de Serviço</a></li>
                       <li><a class="dropdown-item" href="http://www.sic.rn.gov.br/" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;E-SIC</a></li>
                       <li><a class="dropdown-item" href="https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f" target="_blank"><i class="fa fa-angle-right" aria-hidden="true"></i> &nbsp;&nbsp;Ouvidoria</a></li>
                     </ul>
