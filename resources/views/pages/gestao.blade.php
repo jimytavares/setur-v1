@@ -27,12 +27,14 @@
             {{-- BOX02 --}}
             <div class="row box-row">
                 <div class="col-3 img-gestao">
-                    <img src="{{ URL::asset('img/gestao-solange-portela.jpg') }}" />
+                    <img src="{{ URL::asset('img/gestao-solange-portela2.jpeg') }}" />
                 </div>
                 <div class="col" id="box-text">
                     <h4>Solange Portela <br/><span style="color:gray; font-size:15px;">SECRETÁRIA DE ESTADO DO TURISMO DO RIO GRANDE DO NORTE</span></h4>
                     
-                    <p>Mestra em Gestão Pública pela UFRN (2014). Especialista em Administração Geral pela Universidade Potiguar (1996), possui graduação em Psicologia pela Universidade Federal do Rio Grande do Norte (1999) e graduação em Ciências Econômicas pela Universidade Potiguar (1990). Subsecretária de Política e Gestão Turística de Estado do Turismo e Gerente Setorial do Projeto Governo Cidadão na Secretaria de Estado do Turismo do RN. Tem experiência na área de Administração e Gestão Pública, Planejamento, Turismo e Psicologia. Desenvolve atividades de palestrante e consultora nos seguintes temas: instância de governança, programa de regionalização do turismo, planejamento, administração pública, gestão e políticas públicas, conhecimento com acompanhamento de projetos executados com recursos de empréstimo com instituições internacionais. No cargo atual, desde 2015, dentre as atividades desenvolvidas se incluem a liderança equipe técnica, coordenação grupo de trabalho, gerenciamento de projetos na área de turismo, atuação como facilitadora e mediadora de reuniões. </p>
+                    <p>Mestra em Gestão Pública pela UFRN (2014). Especialista em Administração Geral pela Universidade Potiguar (1996), possui graduação em Psicologia pela Universidade Federal do Rio Grande do Norte (1999) e graduação em Ciências Econômicas pela Universidade Potiguar (1990). Subsecretária de Política e Gestão Turística de Estado do Turismo e Gerente Setorial do Projeto Governo Cidadão na Secretaria de Estado do Turismo do RN. Tem experiência na área de Administração e Gestão Pública, Planejamento, Turismo e Psicologia.</p>
+
+                    <p>Desenvolve atividades de palestrante e consultora nos seguintes temas: instância de governança, programa de regionalização do turismo, planejamento, administração pública, gestão e políticas públicas, conhecimento com acompanhamento de projetos executados com recursos de empréstimo com instituições internacionais. No cargo atual, desde 2015, dentre as atividades desenvolvidas se incluem a liderança equipe técnica, coordenação grupo de trabalho, gerenciamento de projetos na área de turismo, atuação como facilitadora e mediadora de reuniões. Em 2023, Solange Portela, passou a liderar a pasta da Secretaria de Turismo do Rio Grande do Norte como secretária.</p>
                 </div>
             </div>
             
