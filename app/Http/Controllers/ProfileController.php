@@ -170,6 +170,11 @@ class ProfileController extends Controller
             case 'TurismoCidadao':
             case 'turismocidadão':
                 return redirect('/turismocidadao');
+            break;
+
+            case 'cartilha':
+            case 'Cartilha':
+                return redirect('/cartilha');
             break;  
                 
             case 'institucional':
@@ -234,6 +239,10 @@ class ProfileController extends Controller
     
     public function turismonorn() {
         return view('pages.turismonorn');
+    }
+
+    public function cartilha() {
+        return view('pages.cartilha');
     }
     
     public function capacitacoes() {

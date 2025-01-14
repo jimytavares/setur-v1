@@ -25,6 +25,7 @@ Route::get('/turismonorn',[ProfileController::class, 'turismonorn']);
 Route::get('/capacitacoes',[ProfileController::class, 'capacitacoes']);
 Route::get('/inspire-se',[ProfileController::class, 'inspirese']);
 Route::get('/turismocidadao',[ProfileController::class, 'turismocidadao']);
+Route::get('/cartilha',[ProfileController::class, 'cartilha']);
 Route::get('/planoseprojetos',[ProfileController::class, 'planoseprojetos']);
 Route::get('/erropesquisar',[ProfileController::class, 'erropesquisar']);
 Route::get('/noticias',[ProfileController::class, 'noticias']);

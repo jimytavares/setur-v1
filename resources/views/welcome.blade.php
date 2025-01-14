@@ -71,9 +71,22 @@
     </section>
 
     {{-- /banner --}}
-    <section class="sec-banner">
+    
+    <section class="sec-banner py-5">
         <div class="container">
-            <a href="http://setur.rn.gov.br/turismonorn"><img src="{{ URL::asset('img/Banner_sitesetur.gif') }}" style="width:100%;" /></a>
+            <div class="row">
+                <div class="col-md-6">
+                    <a href="http://setur.rn.gov.br/turismonorn">
+                        <img src="{{ URL::asset('img/Banner_sitesetur.gif') }}" alt="Banner principal" class="img-fluid h-100" />
+                    </a>
+                </div>
+                
+                <div class="col-md-6">
+                    <a href="http://setur.rn.gov.br/cartilha">
+                        <img src="{{ URL::asset('img/cartilha_turismo_responsavel.png') }}" alt="Banner lateral" class="img-fluid pt-4 pt-md-0" />
+                    </a>
+                </div> 
+            </div>            
         </div>
     </section>
     

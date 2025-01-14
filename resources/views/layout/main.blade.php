@@ -614,7 +614,7 @@
         </div>
         
         <div class="footer02">
-            <small>Secretaria de Estado do Turismo do Rio Grande do Norte &copy; 2023 - <em>Jimy Dickson</em></small>
+            <small>Secretaria de Estado do Turismo do Rio Grande do Norte &copy; 2025 - <em>Jimy Dickson </em></small>
         </div>
     </footer>
 
